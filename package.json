@@ -1,0 +1,22 @@
+{
+  "name": "mrmorrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjaq/mrmorrow.git"
+  },
+  "author": "devjaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjaq/mrmorrow/issues"
+  },
+  "homepage": "https://github.com/devjaq/mrmorrow#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
