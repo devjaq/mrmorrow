@@ -6,6 +6,10 @@ const homeRouter = express.Router();
 
 // const
 
-// homeRouter.get("/", )
+homeRouter.get("/home", (req, res) => {
+
+})
+
+// homeRouter.get
 
 module.exports = homeRouter;
